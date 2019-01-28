@@ -5,7 +5,8 @@ Assignment for Hiver
 Created By Vikrant Agrawal
 
 
-Steps to varify 
+
+Steps to Verify 
 
 clone the project using url "https://github.com/testVikran/Tic-Tac-Toe.git"
 
@@ -19,6 +20,5 @@ play by clicking on boxes
 
 get your result if any zero or cross wins 
 else reset by using reset button 
-
 
 Thank you
